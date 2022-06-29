@@ -8,4 +8,4 @@ Input:
 Output
    simple interest = p*t*r
 
-Dont forget to read the Contributor Covenant Code of Conduct. Contributions are highly appreciated!! 
+Dont forget to read the CODE_OF_CONDUCT.md and CONTRIBUTING.md . Contributions are highly appreciated!! 
