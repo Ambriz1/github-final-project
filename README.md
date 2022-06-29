@@ -7,3 +7,5 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
+Dont forget to read the Contributor Covenant Code of Conduct. Contributions are highly appreciated!! 
